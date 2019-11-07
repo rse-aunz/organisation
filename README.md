@@ -1,2 +1,2 @@
-# organisation
-Organisation for Research Software Engineers
+# Organization
+This repository is for organizational and management documents of the association.
