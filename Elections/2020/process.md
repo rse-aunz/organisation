@@ -2,7 +2,7 @@
 
 | Status | Authoritative location |
 | --- | --- |
-| Accepted | [https://github.com/rse-aunz/rse-au/blob/master/Elections/2019/process.md] |
+| Accepted | [https://github.com/rse-aunz/organisation/blob/master/Elections/2020/process.md] |
 
 This document describes the process for nomination and voting for committee positions. This covers the elected positions, the nomination process, the voting process, and the management of casual vacancies. The process is intended to be transparent and inclusive to foster the formation of a diverse committee that reflects a diverse community.
 
@@ -11,6 +11,8 @@ This document describes the process for nomination and voting for committee posi
 The following committee positions are covered by this election process:
 
 * General Member (8 positions)
+
+Each year **four positions** will be elected, each for a two year term, such that all eight positions will be re-elected every two year.
 
 The elected committee will appoint the following positions, from within the elected General Members, at the first committee meeting after the election:
 
@@ -51,7 +53,7 @@ The following is a broad timeline of the public actions:
 
 * The nomination period will be opened by the distribution of a Call for Nominations on the RSE-AUNZ mailing list.
 * The nomination period will remain open for two weeks.
-* Nominations should be made by email to the address specified in the Call, or directly submitted to the Github repository specified by the Returning Office.
+* Nominations should be made by email to the address specified in the Call, or directly submitted to the GitHub repository specified by the Returning Office.
 * Nominations should specify the following:
    * The candidate’s name and contact details.
    * [Optional] A statement describing how the candidate will contribute to ensure that the association is diverse.
@@ -60,7 +62,7 @@ The following is a broad timeline of the public actions:
    * What skills will you bring to the committee?
    * What would you like to change through your involvement on the committee?
    * If you have already contributed to the RSE community, please list those contributions.
-   * Note: examples can be found at the following URL: [https://rse.ac.uk/conf2017/agm-vote-new-committee-members/]
+   * Note: examples can be found at the following URL: [https://github.com/rse-aunz/organisation/blob/master/Elections/2019/nominations.md]
 * All nominations will be shared publicly before the confirmation period.
 * The list of voters will be frozen at the close of the nomination period.
    * All members of the association's mailing list will be eligible to vote.

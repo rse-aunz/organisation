@@ -2,7 +2,7 @@
 
 | Status | Authoritative location |
 | --- | --- |
-| Open | [https://github.com/rse-aunz/rse-au/blob/master/Elections/2020/nominations.md] |
+| Open | [https://github.com/rse-aunz/organisation/blob/master/Elections/2020/nominations.md] |
 
 Nominations are in the order received by the Returning Officer. Please see the bottom of this document for a template.
 
