@@ -1,4 +1,4 @@
-# RSE-AUNZ Steering Committee Election 2019 Call for Nominations
+# RSE-AUNZ Steering Committee Election 2020: Call for Nominations
 
 | Status | Authoritative location |
 | --- | --- |

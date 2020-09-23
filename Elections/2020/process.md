@@ -1,4 +1,4 @@
-# Steering Committee Election 2019 process
+# RSE-AUNZ Steering Committee Election 2020: Election Process
 
 | Status | Authoritative location |
 | --- | --- |

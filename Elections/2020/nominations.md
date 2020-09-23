@@ -1,4 +1,4 @@
-﻿# <a id="top" /> Nominations for RSE-AUNZ Steering Committee Election 2020
+﻿# <a id="top" />RSE-AUNZ Steering Committee Election 2020: Nominations 
 
 | Status | Authoritative location |
 | --- | --- |
