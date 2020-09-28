@@ -16,7 +16,7 @@ Each year **four positions** will be elected, each for a two year term, such tha
 
 The elected committee will appoint the following positions, from within the elected General Members, at the first committee meeting after the election:
 
-* Chair (1 position)
+* Chair (2 positions, one each from Australia and New Zealand)
 * Secretary (1 position)
 
 ## Timeline
