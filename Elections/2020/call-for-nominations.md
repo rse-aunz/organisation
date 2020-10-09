@@ -8,7 +8,7 @@ Dear colleagues,
 
 On behalf of the Research Software Engineering Association of Australia and New Zealand (RSE-AUNZ), I would like to invite nominations for **four** positions on the RSE-AUNZ Steering Committee.
 
-To be eligible to nominate for, or vote in the 2020 election, you must subscribe to the RSE-AUNZ mailing list by **Monday 2nd November 2020** and remain a subscriber until the completion of the election. Instructions for joining the mailing list can be found on [rse-aunz.org](https://rse-aunz.org/).
+To be eligible to nominate for, or vote in the 2020 election, you must subscribe to the RSE-AUNZ mailing list by **Monday 2nd November 2020** and remain a subscriber until the completion of the election. Instructions for joining the mailing list can be found on [rse-aunz.org](http://rse-aunz.org/).
 
 To nominate yourself for the election, please submit a GitHub pull request for the [2020 nominations file](https://github.com/rse-aunz/organisation/blob/master/Elections/2020/nominations.md) to the [RSE-AUNZ GitHub repository](https://github.com/rse-aunz/organization) or email the nomination to the [RSE-AUNZ Election email](mailto:election@rse-aunz.org). The deadline for nominations is 23:59 AWST on **Sunday 1st November 2020** ([convert to your timezone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=RSE-AUNZ+Election+2020+-+Nomination+Deadline&iso=20201101T235959&p1=196)).
 
