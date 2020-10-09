@@ -28,7 +28,7 @@ Examples can be found from the [2019 Election Nominations](https://github.com/rs
 
 Following the close of nominations, there will be a one week confirmation period to determine the eligibility of candidates. If there are more eligible candidates than the four positions, I will announce a voting period of two weeks, commencing **Monday 9th November 2020**.
 
-The [2020 election process](https://github.com/rse-aunz/organisation/blob/master/Elections/2020/process.md) is available on the [RSE-AUNZ GitHub repository](https://github.com/rse-aunz/organisation/Elections/2020/).
+The [2020 election process](https://github.com/rse-aunz/organisation/blob/master/Elections/2020/process.md) is available on the [RSE-AUNZ GitHub repository for this election](https://github.com/rse-aunz/organisation/tree/master/Elections/2020).
 
 I am managing this election process in the role of _Returning Officer_ and **TBA** has agreed to work as _Scrutineer_. By working in these roles, we are both ineligible to stand for election. Any concerns or enquiries about this election process can be sent to both of us via the [RSE-AUNZ Election email](mailto:election@rse-aunz.org).
 
