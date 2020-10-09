@@ -6,11 +6,11 @@
 
 Dear colleagues,
 
-On behalf of the Research Software Engineers Association of Australia and New Zealand (RSE-AUNZ), I would like to invite nominations for **four** positions on the RSE-AUNZ Steering Committee.
+On behalf of the Research Software Engineering Association of Australia and New Zealand (RSE-AUNZ), I would like to invite nominations for **four** positions on the RSE-AUNZ Steering Committee.
 
 To be eligible to nominate for, or vote in the 2020 election, you must subscribe to the RSE-AUNZ mailing list by **Monday 2nd November 2020** and remain a subscriber until the completion of the election. Instructions for joining the mailing list can be found on [rse-aunz.org](https://rse-aunz.org/).
 
-To nominate yourself for the election, please submit a GitHub pull request for the [2020 nominations file](https://github.com/rse-aunz/organisation/blob/master/Elections/2020/nominations.md) to the [RSE-AUNZ GitHub repository](https://github.com/rse-aunz/organization) or email the nomination [directly to me](mailto:TBA). The deadline for nominations is 23:59 AWST on **Sunday 1st November 2020** ([convert to your timezone]((https://www.timeanddate.com/worldclock/fixedtime.html?continent=australasia&sort=1&p1=196&iso=20190915T2359&msg=RSE-AUNZ%20Nominations%20Deadline))).
+To nominate yourself for the election, please submit a GitHub pull request for the [2020 nominations file](https://github.com/rse-aunz/organisation/blob/master/Elections/2020/nominations.md) to the [RSE-AUNZ GitHub repository](https://github.com/rse-aunz/organization) or email the nomination to the [RSE-AUNZ Election email](mailto:election@rse-aunz.org). The deadline for nominations is 23:59 AWST on **Sunday 1st November 2020** ([convert to your timezone]((https://www.timeanddate.com/worldclock/fixedtime.html?continent=australasia&sort=1&p1=196&iso=20190915T2359&msg=RSE-AUNZ%20Nominations%20Deadline))).
 
 All nominations must provide:
 * The candidate’s name
@@ -30,8 +30,12 @@ Following the close of nominations, there will be a one week confirmation period
 
 The [2020 election process](https://github.com/rse-aunz/organisation/blob/master/Elections/2020/process.md) is available on the [RSE-AUNZ GitHub repository](https://github.com/rse-aunz/organisation/Election/).
 
-I am managing this election process in the role of _Returning Officer_ and **TBA** has agreed to work as _Scrutineer_. By working in these roles, we are both ineligible to stand for election. Any concerns or enquiries about this election process can be sent to either **TBA** or me.
+I am managing this election process in the role of _Returning Officer_ and **TBA** has agreed to work as _Scrutineer_. By working in these roles, we are both ineligible to stand for election. Any concerns or enquiries about this election process can be sent to both of us via the [RSE-AUNZ Election email](mailto:election@rse-aunz.org).
 
 Regards,
 
-**TBA**
+Matthias Liffers
+
+Research Software Skills Specialist
+
+Australian Research Data Commons
