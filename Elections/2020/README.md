@@ -12,8 +12,8 @@ This directory contains files and information relevant to the RSE-AUNZ Steering 
 
 | Period           | Start (Monday) | End (Sunday)  | End Time     |
 | ---------------- | -------------- | ------------- | ------------ |
-| Nomination       | 12th October   | 1st November  | 23:59 (AWST) |
-| Confirmation     | 2nd November   | 8th November  | 23:59 (AWST) |
-| Voting           | 9th November   | 22nd November | 23:59 (AWST) |
-| Results Declared | 23rd November  |               |              |
+| Nomination       | 12th October   | 15th November | 23:59 (AWST) |
+| Confirmation     | 16th November  | 22nd November | 23:59 (AWST) |
+| Voting           | 23rd November  | 6th December  | 23:59 (AWST) |
+| Results Declared | 7th December   |               |              |
 
