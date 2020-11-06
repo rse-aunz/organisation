@@ -8,9 +8,9 @@ Dear colleagues,
 
 On behalf of the Research Software Engineering Association of Australia and New Zealand (RSE-AUNZ), I would like to invite nominations for **four** positions on the RSE-AUNZ Steering Committee.
 
-To be eligible to nominate for, or vote in the 2020 election, you must subscribe to the RSE-AUNZ mailing list by **Monday 2nd November 2020** and remain a subscriber until the completion of the election. Instructions for joining the mailing list can be found on [rse-aunz.org](http://rse-aunz.org/).
+To be eligible to nominate for, or vote in the 2020 election, you must subscribe to the RSE-AUNZ mailing list by **Monday 16th November 2020** and remain a subscriber until the completion of the election. Instructions for joining the mailing list can be found on [rse-aunz.org](http://rse-aunz.org/).
 
-To nominate yourself for the election, please submit a GitHub pull request for the [2020 nominations file](https://github.com/rse-aunz/organisation/blob/master/Elections/2020/nominations.md) to the [RSE-AUNZ GitHub repository for this election](https://github.com/rse-aunz/organisation/tree/master/Elections/2020) or email the nomination to the [RSE-AUNZ Election email](mailto:election@rse-aunz.org). The deadline for nominations is 23:59 AWST on **Sunday 1st November 2020** ([convert to your timezone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=RSE-AUNZ+Election+2020+-+Nomination+Deadline&iso=20201101T235959&p1=196)).
+To nominate yourself for the election, please submit a GitHub pull request for the [2020 nominations file](https://github.com/rse-aunz/organisation/blob/master/Elections/2020/nominations.md) to the [RSE-AUNZ GitHub repository for this election](https://github.com/rse-aunz/organisation/tree/master/Elections/2020) or email the nomination to the [RSE-AUNZ Election email](mailto:election@rse-aunz.org). The deadline for nominations is 23:59 AWST on **Sunday 15th November 2020** ([convert to your timezone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=RSE-AUNZ+Election+2020+-+Nomination+Deadline&iso=20201101T235959&p1=196)).
 
 All nominations must provide:
 * The candidate’s name
@@ -26,11 +26,11 @@ All nominations may optionally provide:
 
 Examples can be found from the [2019 Election Nominations](https://github.com/rse-aunz/organisation/blob/master/Elections/2019/nominations.md).
 
-Following the close of nominations, there will be a one week confirmation period to determine the eligibility of candidates. If there are more eligible candidates than the four positions, I will announce a voting period of two weeks, commencing **Monday 9th November 2020**.
+Following the close of nominations, there will be a one week confirmation period to determine the eligibility of candidates. If there are more eligible candidates than the four positions, I will announce a voting period of two weeks, commencing **Monday 23rd November 2020**.
 
 The [2020 election process](https://github.com/rse-aunz/organisation/blob/master/Elections/2020/process.md) is available on the [RSE-AUNZ GitHub repository for this election](https://github.com/rse-aunz/organisation/tree/master/Elections/2020).
 
-I am managing this election process in the role of _Returning Officer_ and **TBA** has agreed to work as _Scrutineer_. By working in these roles, we are both ineligible to stand for election. Any concerns or enquiries about this election process can be sent to both of us via the [RSE-AUNZ Election email](mailto:election@rse-aunz.org).
+I am managing this election process in the role of _Returning Officer_ and Georgina Rae (NeSI) has agreed to work as _Scrutineer_. By working in these roles, we are both ineligible to stand for election. Any concerns or enquiries about this election process can be sent to both of us via the [RSE-AUNZ Election email](mailto:election@rse-aunz.org).
 
 Regards,
 
