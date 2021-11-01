@@ -1,8 +1,8 @@
 ﻿# <a id="top" />RSE-AUNZ Steering Committee Election 2021: Nominations
 
 | Status | Authoritative location |
-| --- | --- |
-| Open | [https://github.com/rse-aunz/organisation/blob/master/Elections/2021/nominations.md] |
+| ------ | ---------------------- |
+| Open   | [https://github.com/rse-aunz/organisation/blob/master/Elections/2021/nominations.md] |
 
 Nominations are in the order received by the Returning Officer. Please see the bottom of this document for a template.
 
@@ -29,5 +29,10 @@ Nominations are in the order received by the Returning Officer. Please see the b
 *What would you like to change through your involvement on the committee?*
 
 *If you have already contributed to the RSE community, please list those contributions below.*
+
+### 1-year term (optional)
+
+- If you would like to serve on a 1-year term (instead of the regular 2-year
+  term), please note that here
 
 [Back to top](#top)

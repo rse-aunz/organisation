@@ -15,7 +15,8 @@ The following committee positions are covered by this election process:
 Usually, each year **four positions** will be elected, each for a two year
 term, such that all eight positions will be re-elected every two year. However,
 all **eight** positions are completing the two year term in 2021, and will be
-open for election.
+open for election. For greater flexibility, candidates can state in the
+nomination whether they would prefer a 1-year term.
 
 The elected committee will appoint the following positions, from within the elected General Members, at the first committee meeting after the election:
 

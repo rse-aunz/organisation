@@ -33,7 +33,8 @@ commencing **Wednesday 1st December 2021**.
 
 The [2021 election process](https://github.com/rse-aunz/organisation/blob/master/Elections/2021/process.md) is available on the [RSE-AUNZ GitHub repository for this election](https://github.com/rse-aunz/organisation/tree/master/Elections/2021).
 
-I am managing this election process in the role of _Returning Officer_ and <TBD> has agreed to work as _Scrutineer_. By working in these roles, we are both ineligible to stand for election. Any concerns or enquiries about this election process can be sent to both of us via the [RSE-AUNZ Election email](mailto:election@rse-aunz.org).
+I, Tom Honeyman (ARDC), am managing this election process in the role of _Returning Officer_ and
+Georgina Rae (NeSI) has agreed to work as _Scrutineer_. By working in these roles, we are both ineligible to stand for election. Any concerns or enquiries about this election process can be sent to both of us via the [RSE-AUNZ Election email](mailto:election@rse-aunz.org).
 
 Regards,
 
