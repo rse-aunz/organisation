@@ -38,7 +38,7 @@ The following is a broad timeline of the public actions:
 * Week 5:
    * Confirmation period closes.
    * Call for Votes distributed.
-* Week 6:
+* Week 7:
    * Voting period closes.
    * Election results distributed.
    * New committee constituted.

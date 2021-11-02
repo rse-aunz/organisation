@@ -28,7 +28,7 @@ Examples can be found from the [2019 Election Nominations](https://github.com/rs
 
 Following the close of nominations, there will be a one week confirmation
 period to determine the eligibility of candidates. If there are more eligible
-candidates than the open positions, I will announce a voting period of 7 days,
+candidates than the open positions, I will announce a voting period of 14 days,
 commencing **Wednesday 1st December 2021**.
 
 The [2021 election process](https://github.com/rse-aunz/organisation/blob/master/Elections/2021/process.md) is available on the [RSE-AUNZ GitHub repository for this election](https://github.com/rse-aunz/organisation/tree/master/Elections/2021).
