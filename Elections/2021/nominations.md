@@ -9,6 +9,7 @@ Nominations are in the order received by the Returning Officer. Please see the b
 ## Nominees
 
 * Manodeep Sinha
+* Rowland Mosbergen
 
 
 
@@ -47,8 +48,29 @@ In 2017, I took the initiative to contact with RSE UK to establish the current R
 
 I am happy to be considered for a 1-year term if that makes forming the RSE-AUNZ SC easier (including adding new members into the SC)
 
+## <a id="Rowland Mosbergen" /> Rowland Mosbergen
+*N/A, Melbourne, Australia*
+[rowland.h.mosbergen@gmail.com](mailto:rowland.h.mosbergen@gmail.com)
+
+### Diversity Statement
+
+My diversity statement is defined on my website [Practical Diversity and Inclusion](https://www.rowlandm.com/about/)
+
+### Relevant Experience
+
+8 years as a RSE in genomics with Stemformatics, helped form the original interim steering committee as chair.
+
+Strategic planning, community building and stakeholder management.
+
+I would like to build a stronger sense of community, if possible. It would be nice to expand the NZ RSE conference to be NZ/AU and possibly even to Asia.
+
+I would like to see if we could raise awareness of RSEs in industry and in the senior management of universities.
+
+Contributions were a while ago, but setup the first mini-conference in 2019.
+
 
 # Template for nominations
+
 
 ## <a id="your_name_here" /> Your Name Here
 *Institution, City, Country*
