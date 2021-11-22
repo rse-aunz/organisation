@@ -8,8 +8,7 @@ Nominations are in the order received by the Returning Officer. Please see the b
 
 * Manodeep Sinha
 * Rowland Mosbergen
-
-
+* Janet Stacey
 
 ## <a id="Manodeep_Sinha" /> Manodeep Sinha
 *Swinburne University of Technology, Melbourne, Australia*
@@ -66,8 +65,6 @@ I would like to see if we could raise awareness of RSEs in industry and in the s
 
 Contributions were a while ago, but setup the first mini-conference in 2019.
 
-
-* Janet Stacey
 
 ## <a id="Janet_Stacey" /> Janet Stacey
 *Institute of Environmental Science and Research (ESR), Auckland, New Zealand*
