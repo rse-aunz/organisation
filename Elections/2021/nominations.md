@@ -1,4 +1,4 @@
-﻿# <a id="top" />RSE-AUNZ Steering Committee Election 2021: Nominations
+# <a id="top" />RSE-AUNZ Steering Committee Election 2021: Nominations
 
 | Status | Authoritative location |
 | ------ | ---------------------- |
@@ -6,11 +6,15 @@
 
 Nominations are in the order received by the Returning Officer. Please see the bottom of this document for a template.
 
-* Manodeep Sinha
-* Rowland Mosbergen
-* Janet Stacey
+* [Manodeep Sinha](#manodeep-sinha)
+* [Rowland Mosbergen](#rowland-mosbergen)
+* [Janet Stacey](#janet-stacey)
+* [Justin Baker](#justin-baker)
 
-## <a id="Manodeep_Sinha" /> Manodeep Sinha
+---
+
+## Manodeep Sinha
+
 *Swinburne University of Technology, Melbourne, Australia*
 [msinha@swin.edu.au](mailto:msinha@swin.edu.au)
 
@@ -45,7 +49,10 @@ In 2017, I took the initiative to contact with RSE UK to establish the current R
 
 I am happy to be considered for a 1-year term if that makes forming the RSE-AUNZ SC easier (including adding new members into the SC)
 
-## <a id="Rowland Mosbergen" /> Rowland Mosbergen
+---
+
+## Rowland Mosbergen
+
 *N/A, Melbourne, Australia*
 [rowland.h.mosbergen@gmail.com](mailto:rowland.h.mosbergen@gmail.com)
 
@@ -65,8 +72,10 @@ I would like to see if we could raise awareness of RSEs in industry and in the s
 
 Contributions were a while ago, but setup the first mini-conference in 2019.
 
+---
 
-## <a id="Janet_Stacey" /> Janet Stacey
+## Janet Stacey
+
 *Institute of Environmental Science and Research (ESR), Auckland, New Zealand*
 [janet.stacey@esr.cri.nz](mailto:janet.stacey@esr.cri.nz)
 
@@ -95,9 +104,52 @@ I have acted as a member of the organising committee for the NZ-RSE conference h
 
 I am happy to be considered for any term
 
+---
+
+## Justin Baker
+
+*CSIRO, Melbourne.* 
+[justin.baker@csiro.au](mailto:justin.baker@csiro.au)
+
+### Diversity Statement
+I am a strong advocate of the finding that diverse teams are better performing teams. 
+This flows into my on going recruitment tasks, where I have assembled high-performing teams comprised of people from a range of backgrounds, ethnicities and a balance of genders. My current team at
+CSIRO is a perfect example! 
+
+
+### Relevant Experience
+
+*In 100 words, describe your experience of working as a Research Software Engineer.*
+
+I have a BSc in Computer Science, Master of Information Technology and Grad Dip in Biotechnology & Business.
+
+I have worked as a software developer at Monash University and the Bureau of Meteorology. 
+I am currently leading the Data Analytics and Visualisation Team of eight RSEs in CSIRO’s Scientific Computing Group.
+
+*What skills will you bring to the committee?*
+
+During my career, I have occupied many IT based roles in the research support area. These include Senior IT Officer, Divisional IT Manager, Executive Officer, and RSE Team Lead. This experience – including software design and implementation, IT infrastructure support, team management and project management – provides me with a great perspective on the issues affecting individuals across the “RSE spectrum”. 
+
+
+*What would you like to change through your involvement on the committee?*
+
+I’m really keen to see the RSE movement achieve recognition and acceptance in Australia, 
+and for us to contribute to the movement internationally.
+
+*If you have already contributed to the RSE community, please list those contributions below.*
+
+I have been an active member of the RSE-AUNZ steering committee since 2019 and would like to continue in the role.
+
+I have successfully presented abstracts and BoFs at eResearch Australasia, eResearch NZ and C3DIS on various topics including Metrics for the RSE Community, Creating an RSE Community in a complex
+ecosystem, Scientific Visualisation and the delivery of eResearch services. 
+
+### 1-year term (optional)
+
+*If you would like to serve on a 1-year term (instead of the regular 2-year term), please note that here.*
+
+---
 
 # Template for nominations
-
 
 ## <a id="your_name_here" /> Your Name Here
 *Institution, City, Country*
