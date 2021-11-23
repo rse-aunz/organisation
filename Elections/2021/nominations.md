@@ -13,7 +13,7 @@ Nominations are in the order received by the Returning Officer. Please see the b
 
 ---
 
-## Manodeep Sinha
+## <a id="manodeep-sinha"/>Manodeep Sinha
 
 *Swinburne University of Technology, Melbourne, Australia*
 [msinha@swin.edu.au](mailto:msinha@swin.edu.au)
@@ -51,7 +51,7 @@ I am happy to be considered for a 1-year term if that makes forming the RSE-AUNZ
 
 ---
 
-## Rowland Mosbergen
+## <a id="rowland-mosbergen"/>Rowland Mosbergen
 
 *N/A, Melbourne, Australia*
 [rowland.h.mosbergen@gmail.com](mailto:rowland.h.mosbergen@gmail.com)
@@ -74,7 +74,7 @@ Contributions were a while ago, but setup the first mini-conference in 2019.
 
 ---
 
-## Janet Stacey
+## <a id="janet-stacey"/>Janet Stacey
 
 *Institute of Environmental Science and Research (ESR), Auckland, New Zealand*
 [janet.stacey@esr.cri.nz](mailto:janet.stacey@esr.cri.nz)
@@ -106,7 +106,7 @@ I am happy to be considered for any term
 
 ---
 
-## Justin Baker
+## <a id="justin-baker"/>Justin Baker
 
 *CSIRO, Melbourne.* 
 [justin.baker@csiro.au](mailto:justin.baker@csiro.au)
