@@ -10,6 +10,7 @@ Nominations are in the order received by the Returning Officer. Please see the b
 * [Rowland Mosbergen](#rowland-mosbergen)
 * [Janet Stacey](#janet-stacey)
 * [Justin Baker](#justin-baker)
+* [Nooriyah Poonawala Lohani](#nooriyah-poonawala-lohani)
 
 ---
 
@@ -146,6 +147,46 @@ ecosystem, Scientific Visualisation and the delivery of eResearch services.
 ### 1-year term (optional)
 
 *If you would like to serve on a 1-year term (instead of the regular 2-year term), please note that here.*
+
+---
+## <a id="nooriyah-poonawala-lohani"/>Nooriyah Poonawala Lohani
+
+*New Zealand eScience Infrastructure, New Zealand* 
+[nooriyah.lohani@nesi.org.nz](mailto:nooriyah.lohani@nesi.org.nz)
+
+### Diversity Statement
+
+As an immigrant Indian woman working to carve out a career in the New Zealand research system especially in computational science, I am sensitive to the challenges faced by underrepresented groups. At the same time, I have benefitted from the opportunities presented to me by supportive communities and unbiased mentors. I have always worked towards creating the type of supportive communities that have helped me, to help others. Building an equitable, inclusive and diverse community together means that we can ensure it is a space where everyone can be heard and thrive – it’s a win-win!
+
+### Relevant Experience
+
+*In 100 words, describe your experience of working as a Research Software Engineer.*
+
+I have completed a Bachelor of Science majoring in Computer science and Genomics, Postgraduate Diploma in bioinformatics and a MSc in Bioinformatics. I am also currently pursuing a PhD, where I am looking at using machine learning models to predict influenza like illness case counts in New Zealand.
+
+After my Masters I spent 5 years working in the Bioinformatics research as an RSE, initially at a cancer diagnostics company and later at a University.
+
+I currently work at NeSI as a research communities advisor, where my role is focussed on supporting research communities in New Zealand. A large majority of our user base are RSE’s, hence supporting the work they do is an organisational priority.
+
+My work as an RSE was exciting as it gave me the opportunity to apply new and interesting software to complex scientific problems in genomics. It was during my work as an RSE that I realised the research system did not have a formal place or opportunity for growth for me as an RSE. 
+
+*What skills will you bring to the committee?*
+
+Along with my technical skills, I will bring my enthusiasm, empathy and understanding gained through my experience working as an RSE in various organisations. 
+
+*What would you like to change through your involvement on the committee?*
+
+I would like to see RSE’s being recognised for their contributions in research across Australia and New Zealand. I would like to create stronger relationships with RSE communities in other countries to learn from and contribute to the local and global community. 
+
+*If you have already contributed to the RSE community, please list those contributions below.*
+
+As part of the interim RSE steering committee, I have worked with other committee members to contribute to RSE community events (i.e. RSE Workshop at eResearch Australasia 2018, RSE Bof at eResearch NZ, etc.). I participate in interim steering committee meetings to plan RSE community activities. I have worked with Australian and UK representatives to coordinate the NZ chapter of the International RSE Survey and present the findings to various audiences to create awareness of the community. I have co-chaired the RSE AUNZ steering committee since the RSEAUNZ steering committee was first formed in 2019. I have also led the organisation of the first RSE conference in Australasia (NZRSE conference).
+
+### 1-year term (optional)
+
+*If you would like to serve on a 1-year term (instead of the regular 2-year term), please note that here.*
+
+I am happy to serve on a regular 2-year term
 
 ---
 
