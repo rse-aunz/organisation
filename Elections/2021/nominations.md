@@ -11,6 +11,7 @@ Nominations are in the order received by the Returning Officer. Please see the b
 * [Janet Stacey](#janet-stacey)
 * [Justin Baker](#justin-baker)
 * [Nooriyah Poonawala Lohani](#nooriyah-poonawala-lohani)
+* [Rebecca Lange](#rebecca-lange)
 
 ---
 
@@ -187,6 +188,46 @@ As part of the interim RSE steering committee, I have worked with other committe
 *If you would like to serve on a 1-year term (instead of the regular 2-year term), please note that here.*
 
 I am happy to serve on a regular 2-year term
+
+---
+## <a id="rebecca-lange" />Rebecca Lange
+
+*Curtin University, Perth, Australia*
+[rebecca.lnage@curtin.edu.au](mailto:rebecca.lange@curtin.edu.au)
+
+### Diversity Statement
+
+Diversity to me means more than having a gender balance and a representation of minorities in the workplace. It also means having different skills and (cultural) backgrounds represented.
+In terms of the RSE community I believe it is important to promote our diversity of geographical locations and work environments as well as the RSE role itself (which can be reflected in the different types of contracts we have). RSEs are important across all fields of research and are varied in their backgrounds coming from, e.g., research as well as software development and hence the RSE community also needs a diverse team of representatives. 
+
+
+### Relevant Experience
+
+*In 100 words, describe your experience of working as a Research Software Engineer.*
+
+I work as a senior data scientist for the Curtin Institute for Computation (CIC), an RSE role supporting researchers with data and computational projects. I also support our training efforts, teaching basic computational skills to researchers.
+I find the work rewarding as I get to help many researchers on various projects automate and improve their analysis. In addition, I have now taught several hundred researchers how to use Python and R, as well as the importance of version control.
+However, while our team is growing it has also become obvious that the poorly defined career path of an RSE makes academia a less attractive long term option and I would like to continue advocating for RSE in the AU-NZ region.
+
+*What skills will you bring to the committee?*
+
+Working with researchers, as well as industry partners, across various fields I have an understanding of their different needs and how this translates into an RSE role within academia.
+
+*What would you like to change through your involvement on the committee?*
+
+I would like to help promote the RSE community across the board, helping stakeholders understand the growing importance of computational/research software focused roles within the university workforce and work towards increasing career opportunities for RSE within academia.
+Furthermore, I would like to work on providing more professional development opportunities to RSE, be that technical or soft skills, as I find that much of the universities’ offerings are around traditional pure research or professional staff roles.
+
+*If you have already contributed to the RSE community, please list those contributions below.*
+
+I am a member of the current RSE steering committee and have been involved with the community before my appointment, supporting various RSE events at the eResearch conferences. As part of my current role I have organised, taught, and supported several workshops teaching computational and software development skills to the community, promoting the importance of research software and roles dedicated to creating software. 
+
+
+### 1-year term (optional)
+
+*If you would like to serve on a 1-year term (instead of the regular 2-year term), please note that here.*
+
+I am happy to serve a 1-year term.
 
 ---
 
