@@ -12,6 +12,7 @@ Nominations are in the order received by the Returning Officer. Please see the b
 * [Justin Baker](#justin-baker)
 * [Nooriyah Poonawala Lohani](#nooriyah-poonawala-lohani)
 * [Rebecca Lange](#rebecca-lange)
+* [Paula Andrea Martinez](#paula-andrea)
 
 ---
 
@@ -228,6 +229,44 @@ I am a member of the current RSE steering committee and have been involved with 
 *If you would like to serve on a 1-year term (instead of the regular 2-year term), please note that here.*
 
 I am happy to serve a 1-year term.
+
+---
+
+## <a id="paula-andrea" /> Paula Andrea Martinez
+*Australian Research Data Commons, Brisbane, Australia*
+paula.martinez [at] ardc.edu.au
+
+### Diversity Statement
+
+I define diversity as the enriching lived experiences that one can bring to the table, which might be different from the majority. My experiences have made me an adaptable individual. For example, I had the privilege to live in seven countries, and I survived. 
+
+With the many diversity initiatives now arising, I can empathize with those around me, and I bring support to those who seek for it or I can speak up for those who do not want to raise their voices.
+
+
+### Relevant Experience
+
+I have completed a Bachelor of Computer Sciences majoring in Software development. It started the workforce as junior developer in a bank, database consultant for a magazine, intranet and web developer at an NGO and then I decided to persue science. I completed a MSc in Bioinformatics and Systems Biology. Enjoyed learning more biology but reinforced my drive to work as a researcher who code. Then I joined a compute intensive group to complete my PhD and developed methods for genomic analysis. Since then, I have put all of my efforts to support research infrastructure to improve scientific software and the recognition of its authors.
+
+*What skills will you bring to the committee?*
+
+I have started, led and champion many communities, in person and online. I consider myself an advocate and I would love to bring those experiences to the RSE AUNZ community.
+
+*What would you like to change through your involvement on the committee?*
+
+I have been a member since 2019, and I see that this year this community is starting to gain more visibility. 
+
+I want it to respond to the needs of their membership by working on strategies that would enable members to answer these two questions:
+- What does the community stand for?
+- What experiences will we have that allow us to achieve our goals?
+
+In my ARDC role to support this community, it is important to bring the implementation of the National Software Agenda closer to the target audience, namely the RSE AUNZ community is one of our stakeholders. Also, amplify the efforts of other international organisations or individual change makers, e.i. the international RSE capability, Research Software for career advancement, Research Software as a first class output of research.    
+
+*If you have already contributed to the RSE community, please list those contributions below.*
+I have been a participant, engaged in the mailing list, and attended events relevant to this community. 
+
+### 1-year term (optional)
+
+I am happy to serve a 1-year term, considering my commitment to this community is linked to my current fixed-term contract with ARDC as the Software Project Coordinator. 
 
 ---
 
